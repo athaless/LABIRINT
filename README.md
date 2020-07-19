@@ -15,5 +15,5 @@ It's an algorithm for a 3D Labirint (simulated) that I invented when I was a kid
     <td><img src="./_/LabirintV1_img2.jpg"></td>
     <td><img src="./_/LabirintV1_img3.jpg"></td>
   </tr>
-  <tr><td collspan=3>From the C and C++ files ".exe" should be run well on a DOSBox (in fact that was the way I got these screenshots above).</td></tr>
+  <tr><td colspan=3>From the C and C++ files ".exe" should be run well on a DOSBox (in fact that was the way I got these screenshots above).</td></tr>
 </table>
